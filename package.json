@@ -2,6 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
+  "hompage": "https://github.com/jhjjang0922/test0421",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -18,7 +19,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "hompage": "https://github.com/jhjjang0922",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
